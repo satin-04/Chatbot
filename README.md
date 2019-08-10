@@ -1,2 +1,3 @@
-# Chatbot
-Created a ChatBot using Google's DialogFlow
+# Initial code for Udemy course [ChatBots: Messenger ChatBot - DialogFlow and nodejs](https://www.udemy.com/chatbots/?couponCode=GITHUB)
+
+
